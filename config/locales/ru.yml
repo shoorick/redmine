@@ -1099,7 +1099,7 @@ ru:
   label_copy_attachments: Копировать вложения
   label_item_position: "%{position}/%{count}"
   label_completed_versions: Завершенные версии
-  text_project_identifier_info: Допускаются только строчные латинские буквы (a-z), цифры, тире и подчёркивания.<br />После сохранения идентификатор изменить нельзя.
+  text_project_identifier_info: Допускаются только строчные латинские буквы (a-z), цифры, дефисы и подчёркивания.<br />После сохранения идентификатор изменить нельзя.
   field_multiple: Множественные значения
   setting_commit_cross_project_ref: Разрешить ссылаться и исправлять задачи во всех остальных проектах
   text_issue_conflict_resolution_add_notes: Добавить мои примечания и отказаться от моих изменений
@@ -1134,7 +1134,7 @@ ru:
   label_fields_permissions: Права на изменения полей
   label_readonly: Не изменяется
   label_required: Обязательное
-  text_repository_identifier_info: Допускаются только строчные латинские буквы (a-z), цифры, тире и подчеркивания.<br />После сохранения идентификатор изменить нельзя.
+  text_repository_identifier_info: Допускаются только строчные латинские буквы (a-z), цифры, дефисы и подчёркивания.<br />После сохранения идентификатор изменить нельзя.
   field_board_parent: Родительский форум
   label_attribute_of_project: Проект %{name}
   label_attribute_of_author: Имя автора %{name}
